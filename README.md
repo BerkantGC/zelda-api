@@ -9,7 +9,6 @@ Welcome to the Zelda API! This API is under development for Zelda Mobile (SwiftU
 - [Usage](#usage)
 - [Endpoints](#endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The Zelda API allows users to access data about characters, items, locations, and more from the Legend of Zelda universe.
